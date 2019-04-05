@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com/"
+           fetch="https://aosp.tuna.tsinghua.edu.cn/"
            review="https://android-review.googlesource.com/" />
 		   
   <remote  name="github"
@@ -726,5 +726,9 @@
 
   <!-- Custom repos -->
   <include name="snippets/remove.xml" />
-  <include name="snippets/dot.xml" />				   
+  <include name="snippets/dot.xml" />	
+  
+  <!-- Add Device Stuff -->  
+  <include name="snippets/device.xml" />
+  
 </manifest>

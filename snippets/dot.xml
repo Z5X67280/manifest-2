@@ -142,7 +142,7 @@
   <!-- <project path="external/ebtables" name="android_external_ebtables" groups="pdk" remote="dot" /> -->
   <project path="external/exfat" name="android_external_exfat" remote="dot" />
   <project path="external/fuse" name="android_external_fuse" remote="los" revision="lineage-15.1" />
-  <!-- <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="los" /> -->
+  <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="los" />
   <project path="external/htop" name="android_external_htop" remote="los" revision="lineage-15.1" />
   <project path="external/json-c" name="android_external_json-c" remote="dot" />
   <project path="external/libncurses" name="android_external_libncurses" remote="dot" />
@@ -155,8 +155,8 @@
   <project path="external/perfetto" name="android_external_perfetto" remote="dot" />
   <project path="external/p7zip" name="android_external_p7zip" remote="dot" />
   <project path="external/pigz" name="android_external_pigz" remote="dot" />
-  <!-- <project path="external/rsync" name="android_external_rsync" remote="los" /> -->
-  <!-- <project path="external/roboto-fonts" name="android_external_roboto-fonts" remote="dot" /> -->
+  <project path="external/rsync" name="android_external_rsync" remote="los" />
+  <project path="external/roboto-fonts" name="android_external_roboto-fonts" remote="dot" />
   <project path="external/unrar" name="android_external_unrar" remote="dot" />
   <project path="external/vim" name="android_external_vim" remote="dot" />
   <project path="external/zip" name="android_external_zip" remote="dot" />
