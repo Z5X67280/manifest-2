@@ -6,7 +6,7 @@
 <!-- Creator: urK -kernelaesthesia- (Z5X67280@163.com) -->
 
   <!-- Kernel -->
-  <project path="kernel/xiaomi/msm8953-4.9" name="Z5X67280/android_kernel_xiaomi_msm8953-4.9" remote="github" revision="PE-4.9" />
+  <project path="kernel/xiaomi/msm8953-4.9" name="rama982/android_kernel_xiaomi_vince-4.9" remote="github" revision="pie" />
 
   <!-- Device -->
   <project path="device/xiaomi/vince" name="Z5X67280/android_device_xiaomi_vince" remote="github" revision="PE-4.9" />
